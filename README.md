@@ -1,4 +1,4 @@
-# Anoop-Kumar-Burnwal
+# Anoop Kumar Burnwal
 # 💫 About Me:
 👋Hi , I am Anoop Kumar Burnwal .<br>🎓Sophomore - Comp. Mech Engineering Student at NIT JSR'28.<br>💻 Web developer at Team Innoreva - The best technical club at NIT JSR.<br>🌐Web developer in CMDC Club - The official club for Comp. mech students at NIT JSR.<br>🚀Currently focused on Frontend Development with React JS.<br>📈Actively building and contributing to multiple Projects .<br>🎯Aspiring Full stack developer .
 
